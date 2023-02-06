@@ -5,7 +5,7 @@
 
 main()
 {
-  int akbar, birbal, fort, raj;
+  int akbar, birbal, fort;
   clrscr();
 
   akbar = 12;
